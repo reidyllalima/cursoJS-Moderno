@@ -12,3 +12,6 @@ let idade; // Declarei
 idade = 14; // Inicializei
 
 console.log(idade);
+
+// Não muda. Atribuo o valor e fica fixo
+const nome = 'Joao'; 
